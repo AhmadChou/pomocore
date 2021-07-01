@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+}
+
+body {
+
+}
+
+#content {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+#start-button {
+    width: 10%;
+    height: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+}
